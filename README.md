@@ -7,9 +7,10 @@ Repository for technical/infrastructural analysis of blockchain networks willing
 ## Networks
 - **Metis Andromeda**: [Report](./reports/Aave-Metis-Andromeda-analysis.pdf)
 - **BNB Chain**: [Report](./reports/Aave-BNB-Chain-analysis.pdf)
+- **Base**: [Report](./reports/Aave-Base-analysis.pdf)
 
 <br>
 <br>
 
 ### Copyright
-2022 BGD Labs
+2023 BGD Labs
