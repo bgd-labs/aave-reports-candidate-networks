@@ -8,6 +8,7 @@ Repository for technical/infrastructural analysis of blockchain networks willing
 - **Metis Andromeda**: [Report](./reports/Aave-Metis-Andromeda-analysis.pdf)
 - **BNB Chain**: [Report](./reports/Aave-BNB-Chain-analysis.pdf)
 - **Base**: [Report](./reports/Aave-Base-analysis.pdf)
+- **Polygon zkEVM**: [Report](./reports/Aave-zkEVM-analysis.pdf)
 
 <br>
 <br>
