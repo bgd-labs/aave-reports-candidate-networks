@@ -10,6 +10,7 @@ Repository for technical/infrastructural analysis of blockchain networks willing
 - **Base**: [Report](./reports/Aave-Base-analysis.pdf)
 - **Polygon zkEVM**: [Report](./reports/Aave-zkEVM-analysis.pdf)
 - **GnosisChain**: [Report](./reports/Aave-Gnosis-Chain-analysis.pdf)
+- **Scroll**: [Report](./reports/Aave-Scroll-analysis.pdf)
 
 <br>
 <br>
